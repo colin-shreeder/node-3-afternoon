@@ -2,6 +2,9 @@
 
 # Project Summary
 
+
+\\REVIEW STEP 7 FOR STUDY
+
 In this project, we are going to make our first full CRUD back-end that uses a database.
 
 ## Step 1
